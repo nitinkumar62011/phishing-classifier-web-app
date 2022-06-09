@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="description" content="This website is develop for identify the safety of url.">
+    <meta name="keywords" content="phishing url,phishing,cyber security,machine learning,classifier,python">
+    <meta name="author" content="Phishing classifier Team 8 Sem">
+
+    <title>classs demo</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='main.css') }}">
+</head>
+
+<body>
+
+
+
+
+  <div class="main-body">
+    <div class="form" id="form1">
+        <H1 >PHISHING URL DETECTION</H1>
+
+    <br><br><br>
+        <form action="/predicturl" method ="post">
+            <input type="text" class="form__input" name ='url' id="url" placeholder="Enter URL" required="" />
+            <label for="url" class="form__label">URL</label>
+            <button class="button" role="button" >Check here</button>
+        </form>
+        
+        <br>
+    <br>
+    
+    </div>
+    <div id="form2">
+
+    <br>
+    <h6 class = "right "><a href= {{ url }} target="_blank">{{ url }}</a></h6>
+       
+    <br>
+    <h3 id="prediction"></h3>
+    <button class="button2" id="button2" role="button" onclick="window.open('{{url}}')" target="_blank" >Still want to Continue</button>
+    <button class="button1" id="button1" role="button"  onclick="window.open('{{url}}')" target="_blank">Continue</button>
+    </div> 
+</div>
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+
+    
+    <script>
+        
+            let x = '{{xx}}';
+            let num = x*100;
+            if (0<=x && x<0.50){
+                num = 100-num;
+            }
+            let txtx = num.toString();
+            if(x<=1 && x>=0.50){
+                var label = "Website is "+txtx +"% safe to use...";
+                document.getElementById("prediction").innerHTML = label;
+                document.getElementById("button1").style.display="block";
+            }
+            else if (0<=x && x<0.50){
+                var label = "Website is "+txtx +"% unsafe to use..."
+                document.getElementById("prediction").innerHTML = label ;
+                document.getElementById("button2").style.display="block";
+            }
+        
+    </script>
+    
+<br>
+<P></P>
+
+
+
+
+<div class="card">
+  
+</div>
+
+
+
+
+
+  
+
+
+<div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+<h4 >ENTER THE FILE NAME</h4>
+            <form action="/predictFolder" method="post" enctype="multipart/form-data">
+                <div class="control-group">
+                    <div class="form-group floating-label-form-group controls">
+                      <label></label>
+                      <input type="text" class="form__input" placeholder="folder" id="folder" name="folder" required data-validation-required-message="Please enter the folder name.">
+                      <p class="help-block text-danger"></p>
+                    </div>
+                </div>
+    <button type="submit" class="button">Submit</button>
+</form>
+      </div>
+    </div>
+</div>
+
+
+
+
+<div class="card">
+  
+</div>
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+   <h3> Enter the Folder Name for Retraining </h3>
+        <form name="sentMessage" id="contactForm" action = "/retraining" method="post" novalidate>
+          <div class="control-group">
+            <div class="form-group floating-label-form-group controls">
+              <label></label>
+              <input type="text" class="form__input" placeholder="retraing_path" id="retraing_path" name="retraing_path" required data-validation-required-message="Folder Path Name.">
+              <p class="help-block text-danger"></p>
+            </div>
+        </div>
+
+
+        
+         <div class="btn1"> <button type="submit" class="button" id="sendMessageButton">Retarin Model</button></div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+</body>
+</html>

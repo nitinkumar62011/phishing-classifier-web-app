@@ -1,0 +1,37 @@
+2022-06-08/15:17:06		BadRaw directory deleted before starting validation!!!
+2022-06-08/15:17:06		GoodRaw directory deleted successfully!!!
+2022-06-08/15:24:02		BadRaw directory deleted before starting validation!!!
+2022-06-08/15:24:02		GoodRaw directory deleted successfully!!!
+2022-06-08/15:26:13		BadRaw directory deleted before starting validation!!!
+2022-06-08/15:26:13		GoodRaw directory deleted successfully!!!
+2022-06-08/15:34:43		BadRaw directory deleted before starting validation!!!
+2022-06-08/15:34:43		GoodRaw directory deleted successfully!!!
+2022-06-08/15:49:19		GoodRaw directory deleted successfully!!!
+2022-06-08/15:49:19		Bad files moved to archive
+2022-06-08/15:49:19		Bad Raw Data Folder Deleted successfully!!
+2022-06-08/16:06:23		BadRaw directory deleted before starting validation!!!
+2022-06-08/16:06:23		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:06:49		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:07:11		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:07:25		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:07:36		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:08:00		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:12:12		GoodRaw directory deleted successfully!!!
+2022-06-08/16:13:51		BadRaw directory deleted before starting validation!!!
+2022-06-08/16:13:51		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/phising_08012020_120000.csv'
+2022-06-08/16:32:36		GoodRaw directory deleted successfully!!!
+2022-06-08/16:32:36		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2022-06-08/16:47:00		GoodRaw directory deleted successfully!!!
+2022-06-08/16:47:00		Bad files moved to archive
+2022-06-08/16:47:00		Bad Raw Data Folder Deleted successfully!!
+2022-06-08/20:21:44		GoodRaw directory deleted successfully!!!
+2022-06-08/20:21:44		Bad files moved to archive
+2022-06-08/20:21:44		Bad Raw Data Folder Deleted successfully!!
+2022-06-08/21:14:01		BadRaw directory deleted before starting validation!!!
+2022-06-08/21:14:01		GoodRaw directory deleted successfully!!!
+2022-06-08/21:45:13		GoodRaw directory deleted successfully!!!
+2022-06-08/21:45:13		Bad files moved to archive
+2022-06-08/21:45:13		Bad Raw Data Folder Deleted successfully!!
+2022-06-09/13:29:46		GoodRaw directory deleted successfully!!!
+2022-06-09/13:29:46		Bad files moved to archive
+2022-06-09/13:29:46		Bad Raw Data Folder Deleted successfully!!

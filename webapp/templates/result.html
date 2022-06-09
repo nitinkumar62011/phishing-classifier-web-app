@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>classs demo</title>
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='main.css') }}">
+</head>
+
+<body>
+<div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+<h1>Predicted Value Analysis</h1>
+
+       <hr>
+       {{predict_data_total}}
+
+       <button type="button" class="btn btn-primary" onclick="window.location.href='/'">Back</button>
+
+
+              </div>
+      </div>
+    </div>
+</body>
+</html>

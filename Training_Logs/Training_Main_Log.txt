@@ -1,0 +1,7 @@
+2022-06-08/21:58:38		Start of Validation on files for prediction!!
+2022-06-08/21:59:30		Start of Validation on files for prediction!!
+2022-06-08/22:00:56		Start of Validation on files for prediction!!
+2022-06-08/22:00:56		Raw Data Validation Complete!!
+2022-06-08/22:00:56		Starting Data Transforamtion!!
+2022-06-08/22:00:57		DataTransformation Completed!!!
+2022-06-08/22:00:57		Creating Training_Database and tables on the basis of given schema!!!
