@@ -3,3 +3,8 @@
 2022-06-08/21:58:38		Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/InputFile.csv'
 2022-06-08/21:59:31		Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/InputFile.csv'
 2022-06-08/22:00:56		Valid File name!! File moved to GoodRaw Folder :: phising_08012022_120000.csv
+2022-06-09/15:24:33		Valid File name!! File moved to GoodRaw Folder :: phising_08012022_120000.csv
+2022-06-09/15:31:32		Valid File name!! File moved to GoodRaw Folder :: phising_08012022_120000.csv
+2022-06-09/15:42:52		Valid File name!! File moved to GoodRaw Folder :: phising_08012022_120000.csv
+2022-06-09/16:40:44		Valid File name!! File moved to GoodRaw Folder :: phising_08012022_120000.csv
+2022-06-09/16:41:20		Valid File name!! File moved to GoodRaw Folder :: phising_08012022_120000.csv

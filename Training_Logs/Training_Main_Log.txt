@@ -5,3 +5,34 @@
 2022-06-08/22:00:56		Starting Data Transforamtion!!
 2022-06-08/22:00:57		DataTransformation Completed!!!
 2022-06-08/22:00:57		Creating Training_Database and tables on the basis of given schema!!!
+2022-06-09/15:24:32		Start of Validation on files for prediction!!
+2022-06-09/15:24:33		Raw Data Validation Complete!!
+2022-06-09/15:24:33		Starting Data Transforamtion!!
+2022-06-09/15:24:33		DataTransformation Completed!!!
+2022-06-09/15:24:33		Creating Training_Database and tables on the basis of given schema!!!
+2022-06-09/15:31:32		Start of Validation on files for prediction!!
+2022-06-09/15:31:32		Raw Data Validation Complete!!
+2022-06-09/15:31:32		Starting Data Transforamtion!!
+2022-06-09/15:31:32		DataTransformation Completed!!!
+2022-06-09/15:31:32		Creating Training_Database and tables on the basis of given schema!!!
+2022-06-09/15:42:52		Start of Validation on files for prediction!!
+2022-06-09/15:42:53		Raw Data Validation Complete!!
+2022-06-09/15:42:53		Starting Data Transforamtion!!
+2022-06-09/15:42:53		DataTransformation Completed!!!
+2022-06-09/15:42:53		Creating Training_Database and tables on the basis of given schema!!!
+2022-06-09/16:40:44		Start of Validation on files for prediction!!
+2022-06-09/16:40:44		Raw Data Validation Complete!!
+2022-06-09/16:40:44		Starting Data Transforamtion!!
+2022-06-09/16:40:44		DataTransformation Completed!!!
+2022-06-09/16:40:44		Creating Training_Database and tables on the basis of given schema!!!
+2022-06-09/16:41:20		Start of Validation on files for prediction!!
+2022-06-09/16:41:21		Raw Data Validation Complete!!
+2022-06-09/16:41:21		Starting Data Transforamtion!!
+2022-06-09/16:41:21		DataTransformation Completed!!!
+2022-06-09/16:41:21		Creating Training_Database and tables on the basis of given schema!!!
+2022-06-09/16:48:23		Start of Validation on files for prediction!!
+2022-06-09/16:50:59		Start of Validation on files for prediction!!
+2022-06-09/16:51:28		Start of Validation on files for prediction!!
+2022-06-09/16:51:47		Start of Validation on files for prediction!!
+2022-06-09/16:52:37		Start of Validation on files for prediction!!
+2022-06-09/16:53:01		Start of Validation on files for prediction!!

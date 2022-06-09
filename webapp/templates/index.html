@@ -14,12 +14,14 @@
 
 <body>
 
-
+  <div class="text-center">
+    <H1>PHISHING URL DETECTION</H1>
+  </div>
 
 
   <div class="main-body">
     <div class="form" id="form1">
-        <H1 >PHISHING URL DETECTION</H1>
+      
 
     <br><br><br>
         <form action="/predicturl" method ="post">
@@ -97,8 +99,11 @@
 <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="text-center">
+          <h4 >ENTER THE FILE NAME</h4>
+        </div>
 
-<h4 >ENTER THE FILE NAME</h4>
+
             <form action="/predictFolder" method="post" enctype="multipart/form-data">
                 <div class="control-group">
                     <div class="form-group floating-label-form-group controls">
@@ -107,14 +112,19 @@
                       <p class="help-block text-danger"></p>
                     </div>
                 </div>
-    <button type="submit" class="button">Submit</button>
+                <div class="text-center">
+                  <button type="submit" class="button">Submit</button>
+                </div>
+
 </form>
       </div>
     </div>
 </div>
 
 
-
+<div class="text-center">
+  
+</div>
 
 <div class="card">
   
@@ -125,7 +135,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-   <h3> Enter the Folder Name for Retraining </h3>
+
+        <div class="text-center">
+          <h3 > Enter the Folder Name for Retraining </h3>
+        </div>
+  
         <form name="sentMessage" id="contactForm" action = "/retraining" method="post" novalidate>
           <div class="control-group">
             <div class="form-group floating-label-form-group controls">
@@ -135,9 +149,11 @@
             </div>
         </div>
 
-
+        <div class="text-center">
+          <div class="btn1"> <button type="submit" class="button" id="sendMessageButton">Retarin Model</button></div>
+        </div>
         
-         <div class="btn1"> <button type="submit" class="button" id="sendMessageButton">Retarin Model</button></div>
+
         </form>
       </div>
     </div>

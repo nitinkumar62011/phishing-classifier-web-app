@@ -43,7 +43,7 @@ webapp_root = "webapp"
 
 static_dir = os.path.join(webapp_root, "static")
 template_dir = os.path.join(webapp_root, "templates")
-print(pd.read_csv("./Prediction_Output_File/Predictions.csv"))
+predict_data=pd.read_csv("./Prediction_Output_File/Predictions.csv")
 
 app = Flask(__name__, static_folder=static_dir,template_folder=template_dir)
 
@@ -54,6 +54,7 @@ def predicturl():
 
         url = request.form["url"]
         x = np.array(generate_data_set(url)).reshape(1,30) 
+        print(x)
         y_pred =gbc.predict(x)[0]
         #1 is safe       
         #-1 is unsafe
@@ -140,7 +141,8 @@ def retraining():
 
     except ValueError:
 
-        return Response("Error Occurred! %s" % ValueError)
+        #return Response("Error Occurred! %s" % ValueError)
+        return render_template("index.html")
 
     except KeyError:
 
@@ -148,7 +150,9 @@ def retraining():
 
     except Exception as e:
 
-        return Response("Error Occurred! %s" % e)
+        #return Response("Error Occurred! %s" % e)
+        return render_template("index.html")
+
     return render_template("index.html")
 
 
