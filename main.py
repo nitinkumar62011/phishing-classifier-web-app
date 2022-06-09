@@ -53,6 +53,7 @@ def predicturl():
     if request.method == "POST":
 
         url = request.form["url"]
+        print(url)
         x = np.array(generate_data_set(url)).reshape(1,30) 
         print(x)
         y_pred =gbc.predict(x)[0]
