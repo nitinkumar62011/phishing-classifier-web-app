@@ -1,37 +1,77 @@
-2022-06-08/15:24:02		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/15:24:02		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/15:24:02		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/15:26:13		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/15:26:13		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/15:26:13		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/15:34:43		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/15:34:43		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/15:34:43		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/16:03:59		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/16:03:59		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/16:03:59		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/16:12:12		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/16:12:12		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/16:12:12		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/16:38:32		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/16:38:32		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/16:38:32		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/19:52:43		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/19:52:43		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/19:52:43		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/21:02:15		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/21:02:15		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/21:02:15		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-08/21:14:01		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-08/21:14:01		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-08/21:14:01		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-09/13:23:14		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-09/13:23:14		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-09/13:23:14		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-09/15:55:57		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-09/15:55:57		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-09/15:55:57		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-09/16:19:06		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
-2022-06-09/16:19:06		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
-2022-06-09/16:19:06		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
-2022-06-09/16:32:35		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
+2022-06-19/23:23:42		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-19/23:25:15		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-19/23:28:48		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-19/23:53:22		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-19/23:56:06		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:26:47		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:26:47		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/00:38:02		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:38:02		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/00:38:02		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/00:41:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:41:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/00:41:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/00:41:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004101.csv
+2022-06-20/00:44:55		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:44:55		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/00:44:55		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/00:44:55		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004101.csv
+2022-06-20/00:44:55		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004401.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004101.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004401.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004921.csv
+2022-06-20/00:50:09		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_005002.csv
+2022-06-20/00:51:39		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/00:51:39		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/00:51:40		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/00:51:40		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004101.csv
+2022-06-20/00:51:40		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004401.csv
+2022-06-20/00:51:40		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004921.csv
+2022-06-20/00:51:40		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_005002.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_235708.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004101.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004401.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004921.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_005002.csv
+2022-06-20/01:20:29		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220619_232117.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_003229.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004101.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_004401.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_005002.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_013226.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_013302.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_013431.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_013618.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_013756.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_014019.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_014052.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_014130.csv
+2022-06-20/01:57:21		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_014154.csv
+2022-06-20/02:13:44		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_021344.csv
+2022-06-20/02:30:28		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023028.csv
+2022-06-20/02:34:00		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023028.csv
+2022-06-20/02:34:00		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023400.csv
+2022-06-20/02:38:22		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023822.csv
+2022-06-20/02:41:24		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023822.csv
+2022-06-20/02:41:24		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024124.csv
+2022-06-20/02:45:18		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023822.csv
+2022-06-20/02:45:18		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024124.csv
+2022-06-20/02:45:18		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024518.csv
+2022-06-20/02:49:51		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023822.csv
+2022-06-20/02:49:51		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024124.csv
+2022-06-20/02:49:51		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024518.csv
+2022-06-20/02:49:51		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024951.csv
+2022-06-20/02:53:04		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_023822.csv
+2022-06-20/02:53:04		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024124.csv
+2022-06-20/02:53:04		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024518.csv
+2022-06-20/02:53:04		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_024951.csv
+2022-06-20/02:53:04		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_025304.csv
+2022-06-20/02:59:28		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_025928.csv
+2022-06-20/03:05:35		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_025928.csv
+2022-06-20/03:05:35		Valid File name!! File moved to GoodRaw Folder :: phishing_20220620_030535.csv

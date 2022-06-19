@@ -58,9 +58,21 @@ class prediction:
                 cluster_data = cluster_data.drop(['clusters'],axis=1)
                 model_name = file_loader.find_correct_model_file(i)
                 model = file_loader.load_model(model_name)
-                for val in (model.predict(cluster_data)):
+                #######-------#####
+                #y_pro_phishing = model.predict_proba(x)[0,0]
+                s=[]
+                for val in (model.predict_proba(cluster_data)[:,1]):
+                    print(val)
+                    s.append(val)
+                print(s)
+                
+                    
+                for val in (model.predict_proba(cluster_data)[:,0]):
                     result.append(val)
+            print(result)
             result = pandas.DataFrame(result,columns=['Predictions'])
+            print("##########")
+            print(result)
             path="Prediction_Output_File/Predictions.csv"
             result.to_csv("Prediction_Output_File/Predictions.csv",header=True) #appends result to prediction file
             self.log_writer.log(self.file_object,'End of Prediction')

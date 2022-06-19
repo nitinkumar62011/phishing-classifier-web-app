@@ -91,7 +91,7 @@
   
 
 
-<div class="container">
+<!-- <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="text-center">
@@ -114,7 +114,50 @@
 </form>
       </div>
     </div>
+</div> -->
+
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="text-center">
+        <h4 >ENTER THE FILE NAME</h4>
+      </div>
+
+
+          <form action="/predictFolder" method="post" enctype="multipart/form-data">
+              <div class="control-group">
+                  <div class="form-group floating-label-form-group controls">
+                    <label></label>
+                    <input type="file" class="form__input" placeholder="folder" id="file1" name="file1" required data-validation-required-message="Please upload the file .">
+                    <p class="help-block text-danger"></p>
+                  </div>
+              </div>
+              <div class="text-center">
+                <button type="submit" class="button">Submit</button>
+              </div>
+
+</form>
+    </div>
+  </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div class="text-center">
@@ -132,7 +175,7 @@
       <div class="col-lg-8 col-md-10 mx-auto">
 
         <div class="text-center">
-          <h3 > Enter the Folder Name for Retraining </h3>
+          <h3 >Retraining The Existing Model (Admin only) </h3>
         </div>
   
         <form name="sentMessage" id="contactForm" action = "/retraining" method="post" novalidate>

@@ -28,7 +28,7 @@
 body {
   height: 100vh;
 	width: 100vw;
-  background: #0f2027;
+  background: #220f27;
   background: linear-gradient(to right,#2c5364, #203a43, #0f2027);
   /* display: flex; */
   justify-content: center;

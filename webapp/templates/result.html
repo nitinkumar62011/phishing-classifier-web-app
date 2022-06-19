@@ -11,11 +11,49 @@
 <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-<h1>Predicted Value Analysis</h1>
+<h1>Predicted Value URL</h1>
 
        <hr>
+
+
+
+
+       <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Website URL </th>
+           
+              <th scope="col">prdiction probablity of URL</th>
+          </tr>
+        </thead>
+        <tbody>
+           <tr>
+           {% for i in predict_data_total %}
+           {{predict_data_total}}
+      
+      
+            <td>{{i[0]}}</td>
+             <td>{{i[1]}}</td>
+
+      
+      
+          </tr>
+          {% endfor %}
+               </tbody>
+      </table>
+
+
+
+
+
+
+
        {{predict_data_total}}
 
+
+
+
+       <hr>
        <button type="button" class="btn btn-primary" onclick="window.location.href='/'">Back</button>
 
 
