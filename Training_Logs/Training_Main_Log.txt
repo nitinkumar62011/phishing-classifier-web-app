@@ -36,3 +36,5 @@
 2022-06-09/16:51:47		Start of Validation on files for prediction!!
 2022-06-09/16:52:37		Start of Validation on files for prediction!!
 2022-06-09/16:53:01		Start of Validation on files for prediction!!
+2022-06-20/03:34:15		Start of Validation on files for prediction!!
+2022-07-01/23:53:25		Start of Validation on files for prediction!!

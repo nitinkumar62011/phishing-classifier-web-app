@@ -23,17 +23,17 @@
           <tr>
             <th scope="col">Website URL </th>
            
-              <th scope="col">prdiction probablity of URL</th>
+              <th scope="col">Prediction Percentage Of Safe URL</th>
           </tr>
         </thead>
         <tbody>
            <tr>
            {% for i in predict_data_total %}
-           {{predict_data_total}}
+           
       
-      
-            <td>{{i[0]}}</td>
-             <td>{{i[1]}}</td>
+           <td><button type="button" class="btn"><a href="{{i[0]}}">{{i[0]}} </a></button></td>
+            
+             <td><button type="button" class="btn btn-default">{{i[1]*100}}</td></button>
 
       
       
@@ -48,7 +48,7 @@
 
 
 
-       {{predict_data_total}}
+       <!-- {{predict_data_total}} -->
 
 
 
