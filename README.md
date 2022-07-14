@@ -14,10 +14,9 @@ pip install -r requirements.txt
 ``` bash  
 conda activate phishing1
 ```
-``` 
-bash 
+``` bash 
 python main.py
-``
+```
 ``` bash 
 http://localhost:8080/
 ```
