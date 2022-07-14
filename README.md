@@ -1,5 +1,5 @@
 # Phising-Classifierconda 
-# for creating the seperate environment
+# for creating to seperate environment
 ``` bash
  conda create -n phishing
  ```
