@@ -1,10 +1,23 @@
 # Phising-Classifierconda 
 # for creating the seperate environment
-```conda create -n phishing```
+``` bash
+ conda create -n phishing
+ ```
 
-```conda activate phishing```
-```pip install -r requirements.txt```
-#next time 
-```conda activate phishing1```
-```python main.py``
-```http://localhost:8080/```
+``` bash 
+conda activate phishing
+```
+``` bash 
+pip install -r requirements.txt
+```
+# next time 
+``` bash  
+conda activate phishing1
+```
+``` 
+bash 
+python main.py
+``
+``` bash 
+http://localhost:8080/
+```
