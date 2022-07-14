@@ -26,7 +26,7 @@ data = pd.read_csv("phishing.csv")
 #droping index column
 data = data.drop(['Index'],axis = 1)
 # Splitting the dataset into dependant and independant fetature
-
+os.makedirs("Prediction_Output_File",exist_ok=True)
 X = data.drop(["class"],axis =1)
 y = data["class"]
 
