@@ -3805,3 +3805,12 @@
 2022-07-14/01:11:06		 phishing_20220714_011045.csv: File loaded successfully!!
 2022-07-14/01:11:06		 phishing_20220714_011045.csv: File loaded successfully!!
 2022-07-14/01:11:07		 phishing_20220714_011045.csv: File loaded successfully!!
+2022-07-15/11:11:35		 phishing_20220715_111117.csv: File loaded successfully!!
+2022-07-15/11:11:36		 phishing_20220715_111117.csv: File loaded successfully!!
+2022-07-15/11:11:36		 phishing_20220715_111117.csv: File loaded successfully!!
+2022-07-15/11:11:37		 phishing_20220715_111117.csv: File loaded successfully!!
+2022-07-15/11:11:37		 phishing_20220715_111117.csv: File loaded successfully!!
+2022-07-15/11:11:38		 phishing_20220715_111117.csv: File loaded successfully!!
+2022-07-15/12:03:31		 phishing_20220715_120308.csv: File loaded successfully!!
+2022-07-15/12:03:32		 phishing_20220715_120308.csv: File loaded successfully!!
+2022-07-15/12:03:32		 phishing_20220715_120308.csv: File loaded successfully!!

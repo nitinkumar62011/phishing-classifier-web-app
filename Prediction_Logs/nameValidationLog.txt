@@ -111,3 +111,5 @@
 2022-07-12/10:21:41		Valid File name!! File moved to GoodRaw Folder :: phishing_20220712_101632.csv
 2022-07-12/10:21:41		Valid File name!! File moved to GoodRaw Folder :: phishing_20220712_102140.csv
 2022-07-14/01:10:45		Valid File name!! File moved to GoodRaw Folder :: phishing_20220714_011045.csv
+2022-07-15/11:11:17		Valid File name!! File moved to GoodRaw Folder :: phishing_20220715_111117.csv
+2022-07-15/12:03:08		Valid File name!! File moved to GoodRaw Folder :: phishing_20220715_120308.csv
