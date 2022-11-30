@@ -1,7 +1,7 @@
 # Phising-Classifierconda 
-# for creating the seperate environment
+# for creating to seperate environment
 ``` bash
- conda create -n phishing
+ conda create -n phishing python=3.7 --y
  ```
 
 ``` bash 

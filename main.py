@@ -26,7 +26,7 @@ data = pd.read_csv("phishing.csv")
 #droping index column
 data = data.drop(['Index'],axis = 1)
 # Splitting the dataset into dependant and independant fetature
-
+os.makedirs("Prediction_Output_File",exist_ok=True)
 X = data.drop(["class"],axis =1)
 y = data["class"]
 
@@ -137,7 +137,8 @@ def predictFolder():
             # print(request.files)
             #print("file name",type(request.form['folder']))
             f = request.files['file1']
-            urlFileFolder="C:\\Users\\nitin\\OneDrive\\Desktop\\phishing classifier\\code\\url_data_File_converted"
+            os.makedirs("url_data_File_converted",exist_ok=True)
+            urlFileFolder="url_data_File_converted"
             f.save(os.path.join(urlFileFolder,secure_filename(f.filename)))
             fileFetch=pd.read_csv(os.path.join(urlFileFolder,secure_filename(f.filename)))
             print("fileFetch",fileFetch)
